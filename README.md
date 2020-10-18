@@ -1,2 +1,2 @@
-# Class-23-Toppling-Boxes
+# TopplingBoxes
 Toppling Boxes
